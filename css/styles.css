@@ -5,7 +5,9 @@ body{
 }
 
 .home{
-    background-size:cover;
+    background-image: url(../Images/h_img.jpg);
+    background-size: 1100px 1000px;
+    background-repeat: no-repeat;
     text-align:center;
     color:white;
     font-size: 20px;
@@ -14,16 +16,19 @@ body{
     font-size: 32px;
 }
 .p2{
-    font-size: 20px;
+    font-size: 15px;
 }
 #about{
     text-align: center;
+    font-size:15px ;
 }
 #services{
-    background-size: cover;
+    background-image: url(../Images/s_image.jpg);
+    background-size: auto;
     text-align: center;
-    color:white;
-    font-size: 20px;
+    font-size: 18px;
+    color: white;
+
 }
 .h2{
     text-align: center ;
