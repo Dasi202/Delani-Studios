@@ -3,16 +3,16 @@ Delani Studios
 ## Author's name
 Danlon Situma
 ## Description of project
-The project is a landing page for a fictional studio known as Delani Studios.It's an implimentation of the content covered in bootstrap and Jquery.
+The project is a landing page for a fictional studio known as Delani Studios.It's an implementation of the content covered in bootstrap and Jquery.
 ## project setup instructions
-*Copy the repository url
-*Clone the repository
+* Copy the repository url
+* Clone the repository
 ## Technologies used
-*HTML
-*CSS
-*JS
+* HTML
+* CSS
+* JS
 ## link to live site on GitHub Pages
-
+https://dasi202.github.io/Delani-Studios/
 ##License
 MIT License
 Copyright (c) [2021] [Danlon Situma]
