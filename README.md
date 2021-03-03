@@ -13,7 +13,8 @@ The project is a landing page for a fictional studio known as Delani Studios.It'
 * JS
 ## link to live site on GitHub Pages
 https://dasi202.github.io/Delani-Studios/
-##License
+
+## License
 MIT License
 Copyright (c) [2021] [Danlon Situma]
 Permission is hereby granted, free of charge, to any person obtaining a copy
