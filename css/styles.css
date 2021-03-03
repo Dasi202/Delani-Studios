@@ -69,3 +69,10 @@ body{
     margin:1px 2px;
     display: inline-block;
 }
+#socials{
+    padding-inline-start: 50px;
+}
+.finish{
+    text-align: center;
+    color: whitesmoke;
+}
