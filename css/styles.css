@@ -32,6 +32,7 @@ body{
 }
 .h2{
     text-align: center ;
+    font-size: medium;
 }
 .paragraph-dev{
     display:none;
@@ -41,4 +42,13 @@ body{
 }
 .paragraph-prod{
     display:none;
+}
+.port{
+    font-weight: 300;
+    font-size: large;
+}
+.resize{
+    text-align: center;
+    width: 200px;
+    margin: 0px;
 }
